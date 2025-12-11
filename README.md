@@ -4,6 +4,12 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=254&section=header&reversal=true&text=Hi%20%F0%9F%91%8B,%20I'm%20Dawit%20Nigussie&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&strokeWidth=0&animation=twinkling&desc=Passionate%20Software%20Engineer%20From%20Ethiopia&descSize=22&descAlign=50&descAlignY=60&textBg=false&color=gradient"  />
 </div>
 
+<div align="center">
+
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=D4w1t&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
+
+</div>
+
 ###
 
 <div align="center">
@@ -49,11 +55,6 @@
 
 <br clear="both">
 
-<div align="center">
-
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=D4w1t&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
-
-</div>
 
 ###
 
